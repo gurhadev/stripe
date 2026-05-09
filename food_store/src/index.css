@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+    --color-gurha : #fe1e92 ;
+    --background-color-gurha:#ffd7ec;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
